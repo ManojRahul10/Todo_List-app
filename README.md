@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Welcome to My Todo List app 👋
 ![1](https://github.com/user-attachments/assets/dac4d913-a92d-4249-ac35-9aa11693c79e)
 ![2](https://github.com/user-attachments/assets/c139f542-7199-4644-a201-12e5c93ada5b)
 ![3](https://github.com/user-attachments/assets/8318e238-b2ca-451b-994d-c1e8aeb87acc)
